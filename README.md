@@ -49,4 +49,5 @@ Despite being a windthrow area, the Möllergrab Marteloscope showed a positive c
 Repository Content
 
 /docs: Documentation and supplementary materials related to the project.
+
 README.md: This readme file providing an overview of the project.
